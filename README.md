@@ -2,7 +2,6 @@ An executive analytics suite built in Tableau to monitor Monthly Recurring Reven
 
 ## Python Analysis
 * ⚠️ **[Python Notebook (.ipynb)](https://github.com/user-attachments/files/31416343/Dashboard.-.Python.Analysis.ipynb)
-* ⚠️ **[Dashboard - Python Analysis.pdf](https://github.com/user-attachments/files/31414523/Dashboard.-.Python.Analysis.pdf)
 
 ### 📊 Live Interactive Dashboards
 * 📈 **[Dashboard 1: Executive Revenue & Subscription Performance](https://public.tableau.com/views/Dashboard1ExecutiveRevenueRenewalPerformance/Dashboard1-ExecutiveRevenueSubscriptionPerformance?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
