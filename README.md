@@ -4,9 +4,9 @@ An executive analytics suite built in Tableau to monitor Monthly Recurring Reven
 * ⚠️ **[Python Notebook (.ipynb)](https://github.com/user-attachments/files/31416343/Dashboard.-.Python.Analysis.ipynb)
 
 ### 📊 Live Interactive Dashboards
-* 📈 **[Dashboard 1: Executive Revenue & Subscription Performance](https://public.tableau.com/views/Dashboard1ExecutiveRevenueRenewalPerformance/Dashboard1-ExecutiveRevenueSubscriptionPerformance?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-* 🌍 **[Dashboard 2: Regional Profitability & Customer Value](https://public.tableau.com/views/Dashboard2RegionalProfitabilityCustomerValue/Dashboard2-RegionalProbabilityCustomerValue?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-* ⚠️ **[Dashboard 3: Behavioral Churn & Risk Analytics](https://public.tableau.com/views/Dashboard3BehavioralChurnRiskAnalytics/Dashboard3-BehaviouralChurnRiskAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+* 📈 **[Dashboard 1: Executive Revenue & Subscription Performance](https://public.tableau.com/app/profile/shree.vidya.deshmukh/viz/Dashboard1ExecutiveRevenueRenewalPerformance/Dashboard1-ExecutiveRevenueSubscriptionPerformance)**
+* 🌍 **[Dashboard 2: Regional Profitability & Customer Value](https://public.tableau.com/app/profile/shree.vidya.deshmukh/viz/Dashboard2RegionalProfitabilityCustomerValue/Dashboard2-RegionalProbabilityCustomerValue)**
+* ⚠️ **[Dashboard 3: Behavioral Churn & Risk Analytics](https://public.tableau.com/app/profile/shree.vidya.deshmukh/viz/Dashboard3BehavioralChurnRiskAnalysis/Dashboard3-BehaviouralChurnRiskAnalysis)**
 
 ### Core Metrics Monitored
 * **Total Monthly Revenue**
